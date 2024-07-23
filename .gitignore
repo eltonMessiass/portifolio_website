@@ -1,2 +1,19 @@
+/Portifolio/static/
+/Portifolio/media/
+/Portifolio/Portifolio/local_settings.py
+gunicorn-error-local_settings
+__localcode
+/data/
+
+# Django #
+*.log 
+*.pot 
+*.pyc
+__pycache__
+db.sqlite3
+
+#Backup files #
+*.bak
+
 .env
 venv/
